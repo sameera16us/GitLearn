@@ -1,0 +1,1 @@
+To check the current user logged in git we use git config user.name 
